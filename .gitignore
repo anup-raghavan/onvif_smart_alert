@@ -39,6 +39,7 @@ pip-delete-this-directory.txt
 #Locally generated files/KBs
 *.yml
 *.jpg
+*.json
 
 # Unit test / coverage reports
 htmlcov/
